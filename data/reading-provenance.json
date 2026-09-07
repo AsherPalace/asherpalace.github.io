@@ -1,0 +1,19 @@
+{
+  "version": "2.2.0",
+  "displayScript": "zh-Hans",
+  "conversion": "OpenCC 1.4.2 hk → cn",
+  "sources": [
+    {
+      "original": "sanguozhi-corpus.json",
+      "sha256": "cab73fa35e4dd628a06fbae606cbe24d41d5cdb2da4b2ef9f6eb1da185253f8b",
+      "readingCopy": "sanguozhi-corpus.zh-Hans.json",
+      "readingSha256": "484467f16610e52c473ce656556e851ae1ee30a6a8fdd5382318c1422a076bea"
+    },
+    {
+      "original": "sanguozhi-scholarly-index.json",
+      "sha256": "6a6d083ed12bb76d54d50dc0705c2bba75d0679533ef246e9ea54790381c10c1",
+      "readingCopy": "sanguozhi-scholarly-index.zh-Hans.json",
+      "readingSha256": "c8001bc94ca15428f760145b68342facdba8d0f3564eb2f891ee16e379850b81"
+    }
+  ]
+}
